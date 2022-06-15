@@ -37,3 +37,6 @@ Release
 # XCode
 *.xcodeproj/project.xcworkspace/
 *.xcodeproj/xcuserdata/
+.scannerwork/report-task.txt
+sonar_build.sh
+.scannerwork/.sonar_lock
